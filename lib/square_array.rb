@@ -4,6 +4,6 @@ def square_array(array)
   counter = 0
   new_array = []
   while counter < array.length do
-    p numbers **2
+    new_array <<  **2
     counter += 1
 end
